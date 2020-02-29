@@ -1,4 +1,4 @@
-(defconstant L (list (list567) 6 (list234) (car (list123)) (list1314)))
+(defconstant L (list (list 5 6 7) 6 (list 2 3 4) (car (list 1 2 3)) (list 1 3 1 4)))
 ;; 1. 3 список целиком
 (nth 2 L)
 ;; 2. 2й элемент 5го списка
